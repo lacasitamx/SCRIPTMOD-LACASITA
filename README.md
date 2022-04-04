@@ -2,6 +2,7 @@
 
 # desarrollador
 Adm ultimate ofc
-## desarrolladores MOD
+## desarrollador MOD
 vps mx mod by kalix
+# by casita
 script mod by lacasitamx
