@@ -1,8 +1,8 @@
 # SCRIPTMOD-LACASITA
 
 # desarrollador
-Adm ultimate ofc
+Adm ultimate 8th 
 ## desarrollador MOD
 vps mx mod by kalix
-# by casita
+# scriptmod by casita
 script mod by lacasitamx
